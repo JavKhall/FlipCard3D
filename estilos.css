@@ -24,11 +24,12 @@
 
 h1 {
 	text-align: center;
-	margin: 40px auto;
+	margin: 20px auto;
 }
 
 .card { 
 	display: flex;
+	margin-top: 10px;
 	width: 300px;
 	height: 400px;
 	margin: 50px auto;
